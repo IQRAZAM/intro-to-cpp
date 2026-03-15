@@ -303,7 +303,7 @@ int main() {
     return 0;
 }*/
 // **************OOP PILLARS *********
-Inheritance: Inheritance is one of the four fundamental principles of object-oriented programming (OOP) in C++. It allows a new class to inherit properties and methods from an existing class. Here's a simple example:
+// Inheritance: Inheritance is one of the four fundamental principles of object-oriented programming (OOP) in C++. It allows a new class to inherit properties and methods from an existing class. Here's a simple example:
 #include <iostream>
 
 class Animal {

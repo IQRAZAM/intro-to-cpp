@@ -225,7 +225,7 @@ int main(){
   int z = 8;
   int* b = &z;
   cout<<"address of z "<<b<<endl;
-  cout<<"address of b "<<&z<<endl;
+  cout<<"address of b "<<&b<<endl;
   cout<<"the value of b operator is "<<*b<<endl;
   //pointer to pointer (a varaibble which store the address of a pointer itself )
   int** c = &b;
